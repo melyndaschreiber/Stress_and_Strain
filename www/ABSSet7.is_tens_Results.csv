@@ -1,0 +1,11 @@
+Results Table 1
+,Specimen label,Material,Thickness,Width,Print Position,Percent Fill,Perimeter Th.,Rate 1,Comment,Maximum Load,Maximum Tensile stress,Strain 1 at Maximum Tensile stress,Modulus (Automatic Young's),Tensile stress at Break (Automatic Load Drop),Strain 1 at Break (Automatic Load Drop)
+,,,(mm),(mm),,,,(mm/min),,(N),(MPa),(mm/mm),(MPa),(MPa),(mm/mm)
+1,"Specimen19",ABS-Blue,4.064,6.3500,Left,60%,2,5.00000,"Layers-2",379,15,0.00441,114377,15,0.00441
+2,"Specimen20",ABS-Blue,4.064,6.3500,Middle,60%,2,5.00000,"Layers-2 Continued",948,37,0.02385,1912,29,0.09294
+3,"Specimen20",ABS-Blue,4.064,6.3500,Middle,60%,2,5.00000,"Layers-2",955,37,0.02558,1962,29,0.12266
+4,"Specimen21",ABS-Blue,4.064,6.3500,Right,60%,2,5.00000,"Layers-2",931,36,0.02523,1939,28,0.08964
+Mean,,,4.064,6.3500,,,,5.00000,,803,31,0.01977,30048,25,0.07741
+Standard Deviation,,,0.00000,0.00000,,,,0.00000,,282.95828,10.96466,0.01027,56219.53251,7.06993,0.05088
+Coefficient of Variation,,,0.00000,0.00000,,,,0.00000,,35.22262,35.22262,51.93343,187.10199,27.96879,65.73044
+

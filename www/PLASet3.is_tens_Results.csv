@@ -1,0 +1,11 @@
+Results Table 1
+,Specimen label,Material,Thickness,Width,Print Position,Percent Fill,Perimeter Th.,Rate 1,Comment,Maximum Load,Maximum Tensile stress,Strain 1 at Maximum Tensile stress,Modulus (Automatic Young's),Tensile stress at Break (Automatic Load Drop),Strain 1 at Break (Automatic Load Drop)
+,,,(mm),(mm),,,,(mm/min),,(N),(MPa),(mm/mm),(MPa),(MPa),(mm/mm)
+1,"Specimen31",PLA-White,4.064,6.3500,Left,60%,1,5.00000,"Layers-2",7,0,0.00007,,0,0.00007
+2,"Specimen31-2",PLA-White,4.064,6.3500,Left,30%,1,5.00000,"Layers-2",804,31,0.02423,2101,30,0.03544
+3,"Specimen32",PLA-White,4.064,6.3500,Middle,60%,1,5.00000,"Layers-2",825,32,0.02395,1956,30,0.04208
+4,"Specimen33",PLA-White,4.064,6.3500,Left,60%,1,5.00000,"Layers-2",803,31,0.02931,1783,30,0.04488
+Mean,,,4.064,6.3500,,,,5.00000,,610,24,0.01939,1946,23,0.03062
+Standard Deviation,,,0.00000,0.00000,,,,0.00000,,402.02290,15.57842,0.01312,159.20996,14.84098,0.02075
+Coefficient of Variation,,,0.00000,0.00000,,,,0.00000,,65.95378,65.95378,67.63647,8.17950,65.89708,67.76374
+

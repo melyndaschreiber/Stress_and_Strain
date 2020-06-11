@@ -1,0 +1,8 @@
+---
+title: "Ergo_and_Safety"
+output:
+  html_document:
+    df_print: paged
+---
+
+<img src="images/ergo_and_safety.png"> </img>

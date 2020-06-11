@@ -1,0 +1,8 @@
+---
+output:
+  html_document:
+    df_print: paged
+---
+<center>
+<img src="images/ergo_and_safety.png"> </img>
+</center>
